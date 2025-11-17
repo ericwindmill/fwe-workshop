@@ -2,6 +2,8 @@
 
 ## Birdle - Flutter 101
 
+![Birdle](https://raw.githubusercontent.com/ewindmill/birdle/main/birdle_complete/assets/birdle.png)
+
 In this workshop, attendees will build "Birdle," a Wordle-style word guessing game, through the following progressive steps:
 
 1.  **Project Setup & Repair**: Initialize the application and create the necessary file and directory structure for a clean, runnable Flutter project.
