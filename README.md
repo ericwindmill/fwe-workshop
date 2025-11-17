@@ -28,9 +28,7 @@ In this workshop, attendees will build "Birdle," a Wordle-style word guessing ga
 
 ## Wikiexplore
 
-<img src="https://github.com/ericwindmill/fwe-workshop/blob/main/docs/wikiexplore-article.png" height="300"/>
-
-<img src="https://github.com/ericwindmill/fwe-workshop/blob/main/docs/wikiexplore-timeline.png" height="300"/>
+<img src="https://github.com/ericwindmill/fwe-workshop/blob/main/docs/wikiexplore-article.png" height="400"/><img src="https://github.com/ericwindmill/fwe-workshop/blob/main/docs/wikiexplore-timeline.png" height="400"/>
 
 ### Application Implementation Steps
 
