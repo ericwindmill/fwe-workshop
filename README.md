@@ -2,7 +2,7 @@
 
 ## Birdle - Flutter 101
 
-<img src="https://github.com/ericwindmill/fwe-workshop/blob/main/docs/birdle.png" width="200"/>
+<img src="https://github.com/ericwindmill/fwe-workshop/blob/main/docs/birdle.png" width="400"/>
 
 In this workshop, attendees will build "Birdle," a Wordle-style word guessing game, through the following progressive steps:
 
@@ -27,6 +27,10 @@ In this workshop, attendees will build "Birdle," a Wordle-style word guessing ga
     *   **Widgets**: `Scaffold`, `AppBar`, `Column`, `Expanded`, `Center`, `SizedBox`.
 
 ## Wikiexplore
+
+<img src="https://github.com/ericwindmill/fwe-workshop/blob/main/docs/wikiexplore-article.png" height="300"/>
+
+<img src="https://github.com/ericwindmill/fwe-workshop/blob/main/docs/wikiexplore-timeline.png" height="300"/>
 
 ### Application Implementation Steps
 
