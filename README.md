@@ -2,7 +2,7 @@
 
 ## Birdle - Flutter 101
 
-![Birdle](https://github.com/ewindmill/fwe-workshop/blob/main/docs/birdle.png)
+![Birdle](https://github.com/ericwindmill/fwe-workshop/blob/main/docs/birdle.png)
 
 In this workshop, attendees will build "Birdle," a Wordle-style word guessing game, through the following progressive steps:
 
