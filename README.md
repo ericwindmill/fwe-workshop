@@ -1,6 +1,32 @@
 # Intro-ish to Flutter workshop
 
-## Application Implementation Steps
+## Birdle - Flutter 101
+
+In this workshop, attendees will build "Birdle," a Wordle-style word guessing game, through the following progressive steps:
+
+1.  **Project Setup & Repair**: Initialize the application and create the necessary file and directory structure for a clean, runnable Flutter project.
+    *   **Concepts**: Flutter project structure, `pubspec.yaml`.
+
+2.  **Core Game Logic**: Implement the game's state management within a single `GameProvider` class. This includes logic for selecting a secret word, tracking user guesses, and evaluating the correctness of each letter.
+    *   **Concepts**: Dart classes, `List` manipulation, `enum`, `Random`.
+
+3.  **Stateful Widgets**: Build the app using a `StatefulWidget` to manage the game's state directly, using `setState` to trigger UI updates in response to user actions.
+    *   **Concepts**: `StatefulWidget` vs. `StatelessWidget`, widget lifecycle (`initState`), `setState`.
+    *   **Widgets**: `GamePage`.
+
+4.  **UI Components**: Construct the user interface by creating several reusable, single-purpose widgets.
+    *   **Concepts**: Widget composition, passing data via constructors.
+    *   **`LetterTile`**: `Container`, `BoxDecoration`, `Center`, `Text`.
+    *   **`GameBoard`**: `Column`, `Row`, generating widgets with `.map()`.
+    *   **`Keyboard` & `KeyboardKey`**: `Expanded`, `Padding`, `Material`, `InkWell`, passing callbacks.
+
+5.  **Final Assembly**: Combine the `GameBoard` and `Keyboard` widgets within the main `GamePage` to create the complete, interactive game screen.
+    *   **Concepts**: App layout.
+    *   **Widgets**: `Scaffold`, `AppBar`, `Column`, `Expanded`, `Center`, `SizedBox`.
+
+## Wikiexplore
+
+### Application Implementation Steps
 
 In this workshop, attendees will build the "WikiExplore" application through the following progressive steps:
 
